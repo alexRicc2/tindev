@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "606957016553",
+    "project_id": "tindev-cdb73",
+    "storage_bucket": "tindev-cdb73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606957016553:android:1349dc8775288a8403a778",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606957016553-h48sk68mj82vbq5s7s9dca1p1002a6fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnrRvTHsXFx2a74oW2NN4X3p-TQMXyHfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606957016553-h48sk68mj82vbq5s7s9dca1p1002a6fd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "606957016553-m03lpj4i8nois9n72sg217lvgk6pkuls.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
