@@ -8,7 +8,7 @@ const LoginScreen = () => {
     <View>
       <Text>
         {user}
-        LoginScreen, login to appp
+        LoginScreen, loogin to appp
       </Text>
     </View>
   );
